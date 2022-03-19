@@ -12,7 +12,7 @@ public class DemoAppApplication {
 		System.out.println("hai this is ramkrishna");
 		System.out.println("this is merge conflict");
 		System.out.println("git fetch");
-		
+		System.out.println("git eclipse");
 	}
 
 }
