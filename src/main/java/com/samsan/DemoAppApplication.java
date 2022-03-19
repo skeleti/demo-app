@@ -13,6 +13,7 @@ public class DemoAppApplication {
 		System.out.println("this is merge conflict");
 		System.out.println("git fetch");
 		System.out.println("git eclipse");
+		System.out.println("git eclipse");
 	}
 
 }
