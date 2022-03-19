@@ -10,6 +10,8 @@ public class DemoAppApplication {
 		SpringApplication.run(DemoAppApplication.class, args);
 		System.out.println("hai this is santosh");
 		System.out.println("hai this is ramkrishna");
+		System.out.println("this is merge conflict");
+		
 	}
 
 }
